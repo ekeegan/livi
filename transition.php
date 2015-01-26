@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
-<headddd>
+<head>
 <meta charset="UTF-8" />
 <title>A Simple jQuery Fade In/Fade Out</title>
 
